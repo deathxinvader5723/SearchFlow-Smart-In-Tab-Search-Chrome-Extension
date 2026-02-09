@@ -1,2 +1,78 @@
 # SearchFlow-Smart-In-Tab-Search-Chrome-Extension
 SearchFlow lets you instantly search selected text in a side panel without opening new tabs. Stay focused while studying or researching.
+
+SearchFlow – Smart In-Tab Search
+What is SearchFlow?
+
+SearchFlow lets you instantly search selected text in a side panel without opening new tabs.
+It keeps you focused while studying, reading, or researching.
+
+No tab switching. No copy-paste loops.
+
+How it works
+
+Select any text on a webpage
+
+Trigger SearchFlow
+
+Results open instantly in a side panel
+
+You stay on the same page. Your flow stays intact.
+
+Key Features
+
+🔍 Search selected text instantly
+
+🧭 In-tab side panel (no new tabs)
+
+⚡ Fast and lightweight
+
+📚 Perfect for studying, research, and reading
+
+🖱️ Movable handle to avoid blocking content
+
+Supported Searches
+
+Google search opens inside the panel
+
+AI tools (like ChatGPT, Claude) open safely in a new tab when needed
+
+(SearchFlow respects browser security limits.)
+
+Why SearchFlow?
+
+Most extensions force you to:
+
+select → copy → new tab → paste → search → come back
+
+SearchFlow removes that friction.
+
+It’s built for focus, not flash.
+
+Privacy
+
+❌ No tracking
+
+❌ No data collection
+
+❌ No analytics
+
+✅ All searches behave exactly like normal browser searches
+
+Who is it for?
+
+Students
+
+Researchers
+
+Readers
+
+Anyone tired of tab chaos
+
+If you study or read on a PC, SearchFlow just makes sense.
+
+Version
+
+v1.0 – Initial release
+
+Stable. Focused. Minimal.
