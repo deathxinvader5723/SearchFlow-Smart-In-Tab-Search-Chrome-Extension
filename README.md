@@ -1,4 +1,6 @@
-# SearchFlow 
+![Banner](Assets/banner.png)
+
+ 
 * Smart In-Tab Search Chrome Extension with Chatgpt and Gemini Support and a cool UI
 * SearchFlow lets you instantly search selected text in a side panel without opening new tabs. Stay focused while studying or researching.
 This Extension has been made midnight in 3 hrs when a student was struggling with copy-paste-new tab chaos while studying on his PC.
@@ -8,6 +10,8 @@ This Extension has been made midnight in 3 hrs when a student was struggling wit
 SearchFlow lets you instantly search selected text in a side panel without opening new tabs.
 It keeps you focused while studying, reading, or researching.
 No tab switching. No copy-paste loops.
+
+![Banner](Assets/poster.png)
 
 ## How it works
 
@@ -72,3 +76,4 @@ Stable. Focused. Minimal.
 
 We'd be happy if you use and tell us more about its experience :)
 It couldn't be released on Chrome Web Store due to $5 registration fees I can't afford as an student :/
+
