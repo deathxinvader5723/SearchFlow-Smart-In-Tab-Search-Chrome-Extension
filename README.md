@@ -12,17 +12,17 @@ No tab switching. No copy-paste loops.
 
 # How it works
 
-> Select any text on a webpage
-> Trigger SearchFlow
-> Results open instantly in a side panel
-> You stay on the same page. Your flow stays intact.
+* Select any text on a webpage
+* Trigger SearchFlow
+* Results open instantly in a side panel
+* You stay on the same page. Your flow stays intact.
 
 # Key Features
 
-🔍 Search selected text instantly
-🧭 In-tab side panel (no new tabs)
-⚡ Fast and lightweight
-📚 Perfect for studying, research, and reading
+*🔍 Search selected text instantly
+*🧭 In-tab side panel (no new tabs)
+*⚡ Fast and lightweight
+*📚 Perfect for studying, research, and reading
 🖱️ Movable handle to avoid blocking content
 
 # Supported Searches
